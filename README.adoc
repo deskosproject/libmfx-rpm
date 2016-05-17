@@ -1,0 +1,6 @@
+= DeskOS: libmfx RPM
+
+This is the _libmfx_ RPM package for the *DeskOS* operating system.
+
+Upstream comes from the NUX Dextop 7:
+http://li.nux.ro/download/nux/dextop/el7/SRPMS/libmfx-0.0.0-3.9f4a84d.el7.nux.src.rpm[libmfx-0.0.0-3.9f4a84d.el7.nux.src.rpm]

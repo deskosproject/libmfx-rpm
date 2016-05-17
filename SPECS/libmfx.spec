@@ -4,7 +4,7 @@
 
 Name:           libmfx
 Version:        0.0.0
-Release:        3.%{?shortcommit0}%{?dist}
+Release:        4.%{?shortcommit0}%{?dist}
 Summary:        Intel media sdk dispatcher
 
 License:        Intel
@@ -58,6 +58,9 @@ find %{buildroot} -name '*.la' -delete
 %{_libdir}/pkgconfig/*.pc
 
 %changelog
+* Mon May 16 2016 Ricardo Arguello <rarguello@deskosproject.org> 0.0.0-4.9f4a84d
+- Rebuilt for DeskOS
+
 * Thu Feb 04 2016 Simone Caronni <negativo17@gmail.com> - 0.0.0-3.9f4a84d
 - Update to latest snapshot.
 - Update description.
